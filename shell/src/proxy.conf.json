@@ -1,0 +1,8 @@
+{
+  "/s3": {
+    "target": "https://kriogen777-n8n.s3.eu-north-1.amazonaws.com",
+    "secure": false,
+    "changeOrigin": false,
+    "pathRewrite": {"^/s3" : ""}
+  }
+}
